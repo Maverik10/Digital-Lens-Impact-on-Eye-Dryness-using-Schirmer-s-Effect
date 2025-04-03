@@ -1,7 +1,5 @@
 # Digital Lens Impact on Eye Dryness using Schirmer's Effect 
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Digital+Lens+Impact+on+Eye+Dryness)
-
 ## 📌 Project Overview
 This project analyzes the impact of digital lens usage on eye dryness using Schirmer's test data and machine learning. With increasing screen time, it's crucial to understand how digital exposure affects eye health.
 
