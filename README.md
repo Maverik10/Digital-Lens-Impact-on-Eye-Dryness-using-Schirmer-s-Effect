@@ -32,6 +32,12 @@ The dataset consists of:
 - High screen time and improper viewing habits were significant contributors.
 - The ML model provided accurate predictions of dryness severity.
 
+![WhatsApp Image 2025-04-03 at 22 41 26_2e3a4274](https://github.com/user-attachments/assets/360d98cb-8eed-411c-9281-d30f410344ae)
+
+
+![WhatsApp Image 2025-04-03 at 22 37 32_dba6f425](https://github.com/user-attachments/assets/8365a6ea-010f-4f1f-8ddd-55a92cfd3f28)
+
+
 ## 🚀 Future Enhancements
 - Improve model accuracy by integrating more diverse data.
 - Implement real-time monitoring of screen exposure.
