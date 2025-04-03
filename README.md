@@ -45,6 +45,18 @@ This project analyzes the impact of digital lens usage on eye dryness using Schi
 - Submit the form to analyze Schirmer's test results.
 - View the predicted impact of digital lens usage on eye dryness.
 
+Future Enhancements
+
+Real-time Data Analysis: Implement real-time analysis and visualization of eye dryness trends.
+
+Mobile Application: Develop a mobile-friendly version for easier access.
+
+Integration with Wearable Devices: Gather real-time eye strain data from smart glasses or wearables.
+
+Advanced Machine Learning Models: Improve predictive accuracy using deep learning techniques.
+
+Personalized Recommendations: Provide users with tailored advice to reduce eye strain.
+
 <h2>🤝 Contributing</h2><br>
 
 We're open to contributions! If you have ideas, improvements, or bug fixes, please send in a pull request and join us in advancing energy forecasting!<br>
