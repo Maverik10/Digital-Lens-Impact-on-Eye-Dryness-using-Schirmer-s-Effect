@@ -45,13 +45,17 @@ This project analyzes the impact of digital lens usage on eye dryness using Schi
 - Submit the form to analyze Schirmer's test results.
 - View the predicted impact of digital lens usage on eye dryness.
 
-## Contributing
-Feel free to submit pull requests or open issues to improve this project.
+<h2>🤝 Contributing</h2><br>
 
-## License
-This project is licensed under the MIT License.
+We're open to contributions! If you have ideas, improvements, or bug fixes, please send in a pull request and join us in advancing energy forecasting!<br>
 
-## Contact
-For any queries, reach out at [].
+<h2>📜 License</h2><br>
+
+This project is licensed under the MIT License—check out the LICENSE file for more info.<br>
+
+<h2>🙏 Acknowledgments</h2><br>
+
+Special thanks to the SRM Institute of Science and Technology for their support. A heartfelt shoutout to Ms. Madhuri Sharma, whose guidance and encouragement made this project possible.
+
 
 
